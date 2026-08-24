@@ -1,0 +1,4 @@
+0 daun menjari
+1 daun sejajar
+2 daun melengkung
+3 daun menyirip
